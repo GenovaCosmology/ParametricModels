@@ -1,0 +1,3 @@
+[submodule "tensiometer"]
+	path = tensiometer
+	url = https://github.com/mraveri/tensiometer.git
